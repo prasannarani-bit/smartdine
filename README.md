@@ -1,6 +1,6 @@
 🍽️ SmartDine – Restaurant Management Website - https://smartdine.free.nf/index.php
-📌 Project Overview
 
+📌 Project Overview
 SmartDine is a web-based restaurant management system developed using PHP and MySQL.
 The application allows customers to browse the menu, place orders online, and enables administrators to manage food items, categories, and customer orders efficiently.
 
